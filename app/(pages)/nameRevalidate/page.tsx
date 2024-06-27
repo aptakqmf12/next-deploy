@@ -1,5 +1,5 @@
-import NameTag from "../_conponents/NameTag";
-import NameForm from "../_conponents/NameForm";
+import NameForm from "./_conponents/NameForm";
+import NameTag from "./_conponents/NameTag";
 
 export default async function Page() {
   return (
